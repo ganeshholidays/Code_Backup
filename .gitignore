@@ -1,0 +1,6 @@
+# Ignore plan/design files (not needed on the live site)
+Project_Plan.md
+logo_samples.html
+logo_samples_premium.html
+logo_final_options.html
+DEPLOYMENT_GUIDE.md
